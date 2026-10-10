@@ -1,4 +1,5 @@
 # Log-LenX
+<img width="1470" height="798" alt="image" src="https://github.com/user-attachments/assets/27c0e3c2-191e-4695-b70b-62e72c081872" />
 
 **Find the signal. Prioritize what matters.**
 
@@ -30,7 +31,7 @@ Log-LenX analyzes raw application logs and presents a clear incident overview wi
 - **Analysis:** Log parsing, Drain-style clustering, impact ranking
 
 ## Run Locally
-Open **(log-len-x.vercel.app)** in your browser.
+Open **https://log-len-x-git-main-shivam-d6a3.vercel.app/** in your browser.
 
 ## Project Presentation
 
