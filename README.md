@@ -30,14 +30,6 @@ Log-LenX analyzes raw application logs and presents a clear incident overview wi
 - **Analysis:** Log parsing, Drain-style clustering, impact ranking
 
 ## Run Locally
-
-```bash
-git clone https://github.com/Shahib-Alam-Saifi/Log-LenX.git
-cd Log-LenX
-npm install
-npm run dev
-```
-
 Open **(log-len-x.vercel.app)** in your browser.
 
 ## Project Presentation
